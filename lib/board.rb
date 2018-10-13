@@ -1,6 +1,6 @@
 # Define the variable board below.
 def board_tictactoe
-  |   |   
+" "," "," ","|"," "," ","|"," "," "," "   
 -----------
   |   |   
 -----------
