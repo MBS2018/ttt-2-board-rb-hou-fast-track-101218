@@ -8,4 +8,4 @@ def board_tictactoe
 end
 
 
-puts board_tictactoe
+board_tictactoe
